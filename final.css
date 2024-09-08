@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+  }
+  .mainheading{
+    color: #3f083a;
+    font-size: x-large;
+    text-align: center;
+  }
+  .personal-info h2{
+    color:rgb(192, 30, 197);
+    text-align: center;
+    border-bottom: 2px solid#e90ad6;
+    padding-bottom: 5px;
+  }
+  .personal-info p{
+    color: #6d0e65;
+    font-size: large;
+  }
+  .resume {
+    max-width: 800px;
+    margin: 0 auto;
+    background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-pink-purple-smudge-background-picture-image_1278817.jpg);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+
+  }
+  .education h2{
+    color:rgb(192, 30, 197);
+    text-align: center;
+    border-bottom: 2px solid #e90ad6;
+    padding-bottom: 5px;
+  }
+  .education ul li{
+    list-style-type: none;
+    color: #6d0e65;
+    font-size: large;
+  }
+
+  #skills h2{
+    color:rgb(192, 30, 197);
+    text-align: center;
+    border-bottom: 2px solid #e90ad6;
+    padding-bottom: 5px;
+  }
+  #skills ul{
+    list-style-type: none;
+    color: #6d0e65;
+    font-size: large;
+  }
+  #skills ul li{
+    list-style-type: none;
+    color: #6d0e65;
+    font-size: large;
+  }
+  .experience h2 {
+    color:rgb(192, 30, 197);
+    text-align: center;
+    border-bottom: 2px solid #e90ad6;
+    padding-bottom: 5px;
+    
+  }
+  .experience p{
+    color: #6d0e65;
+    font-size: large;
+  }
+  h2 {
+    border-bottom: 2px solid #495057;
+    padding-bottom: 5px;
+  }
+  img{
+    width:"100px";
+    height: 100px;
+  }  
+  button {
+    display: block;
+    margin: 20px 0;
+    padding: 10px 15px;
+    background-color: #b713bdab;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e741ec;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 600px) {
+    .resume {
+      padding: 15px;
+    }
+  
+    h2 {
+      font-size: 1.2em;
+    }
+  
+    button {
+      width: 100%;
+      font-size: 1em;
+    }
+  }
+  

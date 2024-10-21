@@ -161,6 +161,7 @@ padding: 20px;
 .others .skills .ullllll{
     display: flex;
     gap: 22px;
+    margin-top:-20px;
 }
 button{
     background-color: plum;

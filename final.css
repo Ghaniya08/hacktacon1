@@ -102,7 +102,7 @@ padding: 20px;
 }
 .others .Profile h2{
     font-size: small;
-    font-weight: lighter;
+    font-weight: bold
     max-width: 500px;
     margin-left: 20px;
     color: rgb(79, 23, 79);
